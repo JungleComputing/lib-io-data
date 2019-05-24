@@ -1,0 +1,14 @@
+#+title: lib-io-data
+
+* Introduction
+
+Lib-io-data is a simple library to generate and verify random
+floating-point data.
+
+* Building the library
+
+#+begin_src sh
+git clone https://github.com/JungleComputing/lib-io-data.git
+cd lib-io-data/src
+make
+#+end_src
